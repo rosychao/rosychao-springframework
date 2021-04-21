@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8">
+    <title>404 - Not Found</title>
+</head>
+<body>
+    <span size='25'>404 Not Found</span><br/>
+    <b>URL:${url} Not Found</b><br/>
+</body>
+</html>
